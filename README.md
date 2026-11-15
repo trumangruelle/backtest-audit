@@ -256,3 +256,5 @@ tools/mutation_check.py  breaks the code 32 ways and checks the tests notice
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+Hire me on Upwork: [my Upwork profile](https://www.upwork.com/freelancers/~0102c9da1a58bd5441)
