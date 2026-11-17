@@ -258,3 +258,11 @@ tools/mutation_check.py  breaks the code 32 ways and checks the tests notice
 MIT. See [LICENSE](LICENSE).
 
 Hire me on Upwork: [my Upwork profile](https://www.upwork.com/freelancers/~0102c9da1a58bd5441)
+
+Fixed-price projects you can order there, each built around a check like the ones above:
+
+- [Your vendor security questionnaire answered from your policies](https://www.upwork.com/services/product/development-it-your-vendor-security-questionnaire-answered-from-your-policies-2122208134162584093?ref=project_share)
+- [A starter security policy pack written from how you work](https://www.upwork.com/services/product/development-it-a-starter-security-policy-pack-written-from-how-you-work-2122239934187225497?ref=project_share)
+- [Your invoice PDFs into Excel, every total checked](https://www.upwork.com/services/product/development-it-invoice-data-extracted-into-a-spreadsheet-with-totals-checked-2102654749501770828?ref=project_share)
+- [A Python script that pulls your API data into CSV or SQLite](https://www.upwork.com/services/product/development-it-a-python-script-that-pulls-your-api-data-into-csv-or-sqlite-2102648424948517964?ref=project_share)
+- [An automated weekly sales report from your POS CSV exports](https://www.upwork.com/services/product/development-it-an-automated-weekly-sales-report-from-your-pos-csv-exports-2102545739255613093?ref=project_share)
